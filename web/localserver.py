@@ -1,9 +1,9 @@
-import subprocess
+
 import webbrowser
 
 # Open current path
 repo_path = "path/to/your/repository"
-commit_message = "Automated commit"
+
 
 # Start a local web server, default port 8000
 try:
