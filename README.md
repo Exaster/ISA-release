@@ -24,7 +24,5 @@
 
 2. Navigate to the "web" folder in this repository.
 
-3. Open a terminal or command prompt and change to the "web" folder directory.
-
-4. Run a local Python server by using the following command:
+3. Run `localhost.py`.
 
