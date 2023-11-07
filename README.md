@@ -24,5 +24,5 @@
 
 2. Navigate to the "web" folder in this repository.
 
-3. Run `localhost.py`.
+3. Run `locaserver.py`.
 
