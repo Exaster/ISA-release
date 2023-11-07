@@ -10,7 +10,7 @@
 
 3. Transfer the APK file to your Android device if it's not already there.
 
-4. On your Android device, open a file manager and find the APK file.
+4. On your Android device, open a file manager and find the APK file `ISA.apk`.
 
 5. Tap on the APK file to begin the installation.
 
